@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637553964 source:c:\users\hungv\study\coding\tin-sp1\mix\words\words.cpp
+	<iostream>
+	<algorithm>
+	<string>
+
